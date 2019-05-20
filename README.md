@@ -14,5 +14,8 @@
 
 ## Diagrama de clases:
 
+![](10.PNG)
 
 ## Diagrama de secuencia:
+
+![](11.PNG)
